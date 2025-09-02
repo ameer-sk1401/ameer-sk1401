@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Data Analysis and Engineering**
 
-- 👨‍💻 All of my projects are available at [https://ameer-shaik-portfolio.netlify.app/](https://ameer-shaik-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/ameer-sk1401](https://github.com/ameer-sk1401)
 
 - 📫 How to reach me **ameersk1401@gmail.com**
 
