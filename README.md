@@ -153,6 +153,9 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" style="margin-right:20px;"/>
   </a>
+  <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40" style="margin-right:20px;"/>
+</a>
 </p>
 ---
 
