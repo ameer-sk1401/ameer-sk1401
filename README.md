@@ -29,89 +29,9 @@
 <h4>☁️ Cloud Services </h4>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right:20px;"/>
-    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right:20px;"/>    
   </a>
-<!-- EC2 -->
-<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonec2.svg" alt="AWS EC2" width="40" height="40" style="margin-right:20px;"/>
-</a>
 
-<!-- S3 -->
-<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazons3.svg" alt="AWS S3" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- VPC -->
-<a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonvpc.svg" alt="AWS VPC" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- IAM -->
-<a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awsidentityandaccessmanagement.svg" alt="AWS IAM" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- CodeBuild -->
-<a href="https://aws.amazon.com/codebuild/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS CodeBuild" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- CodeDeploy -->
-<a href="https://aws.amazon.com/codedeploy/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS CodeDeploy" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- CodeCommit -->
-<a href="https://aws.amazon.com/codecommit/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS CodeCommit" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- Glue -->
-<a href="https://aws.amazon.com/glue/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awsglue.svg" alt="AWS Glue" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- Athena -->
-<a href="https://aws.amazon.com/athena/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonathena.svg" alt="AWS Athena" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- RDS -->
-<a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonrds.svg" alt="AWS RDS" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- CloudWatch -->
-<a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazoncloudwatch.svg" alt="AWS CloudWatch" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- Route 53 -->
-<a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonroute53.svg" alt="AWS Route 53" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- CloudFormation -->
-<a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awscloudformation.svg" alt="AWS CloudFormation" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- QuickSight -->
-<a href="https://aws.amazon.com/quicksight/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonquicksight.svg" alt="AWS QuickSight" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- Kinesis -->
-<a href="https://aws.amazon.com/kinesis/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonkinesis.svg" alt="AWS Kinesis" width="40" height="40" style="margin-right:20px;"/>
-</a>
-
-<!-- ECS -->
-<a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonecs.svg" alt="AWS ECS" width="40" height="40" style="margin-right:20px;"/>
-</a>
-  
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-right:20px;"/>
   </a>
