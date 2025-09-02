@@ -58,18 +58,17 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
+
 ---
 
 <h3 align="left">📌 Featured Repos</h3>
 
-<p align="center">
-  <!-- Repo 1: My Portfolio -->
+<div align="center">
   <a href="https://github.com/ameer-sk1401/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameer-sk1401&repo=Portfolio&theme=tokyonight" />
   </a>
-  <!-- Repo 2: Job Snooper -->
   <a href="https://github.com/ameer-sk1401/Job-Snooper">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameer-sk1401&repo=Job-Snooper&theme=tokyonight" />
   </a>
-</p>
+</div>
 
