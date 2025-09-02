@@ -65,10 +65,10 @@
 
 <div align="center">
   <a href="https://github.com/ameer-sk1401/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameer-sk1401&repo=Portfolio&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameer-sk1401&repo=portfolio&theme=tokyonight" />
   </a>
   <a href="https://github.com/ameer-sk1401/Job-Snooper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameer-sk1401&repo=Job-Snooper&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameer-sk1401&repo=job-snooper&theme=tokyonight" />
   </a>
 </div>
 
