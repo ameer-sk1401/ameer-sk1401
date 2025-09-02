@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AWS Cost Finder & Optimizer Tool**  
 - 🌱 Learning **AWS Data Analysis & Engineering**  
-- 👨‍💻 Check out all my projects: [Portfolio Website](https://ameer-shaik-portfolio.netlify.app/)  
+- 👨‍💻 Check out my portfolio : [Portfolio Website](https://ameer-shaik-portfolio.netlify.app/)  
 - 📫 Reach me at **ameersk1401@gmail.com**  
 - 📄 View my resume: [Resume (PDF)](https://github.com/ameer-sk1401/Portfolio/blob/main/resume.pdf)  
 
@@ -58,18 +58,4 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
----
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameer-sk1401&show_icons=true&theme=tokyonight" alt="ameer-sk1401" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-sk1401&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-sk1401&layout=compact&theme=tokyonight" alt="langs" />
-</p>
