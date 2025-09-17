@@ -105,18 +105,6 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameer-sk1401&show_icons=true&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-sk1401&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameer-sk1401&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
