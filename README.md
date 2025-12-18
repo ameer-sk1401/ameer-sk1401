@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="mailto:ameersk1401@gmail.com"><img src="https://img.shields.io/badge/Email-ameersk1401%40gmail.com-red?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ameer-shaik-087791218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ameer%20Shaik-blue?logo=linkedin" /></a>
-  <a href="https://ameer-shaik-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-14a1f0?logo=netlify" /></a>
   <a href="https://github.com/ameer-sk1401/Portfolio/blob/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4b8bbe?logo=readthedocs" /></a>
 </p>
 
