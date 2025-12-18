@@ -4,16 +4,15 @@
 
 <p align="center">
   <a href="mailto:ameersk1401@gmail.com"><img src="https://img.shields.io/badge/Email-ameersk1401%40gmail.com-red?logo=gmail" /></a>
-  <a href="https://github.com/ameer-sk1401/Portfolio/blob/main/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-4b8bbe?logo=readthedocs" /></a>
+  
 </p>
 
 ---
 
 - 🔭 Currently building: **AWS Cost Finder & Optimizer Tool**
 - 🌱 Learning: **AWS Data Analysis & Engineering**
-- 👨‍💻 Portfolio: **[ameer-shaik-portfolio.netlify.app](https://ameer-shaik-portfolio.netlify.app/)**
 - 📫 Reach me: **ameersk1401@gmail.com**
-- 📄 Resume: **[View PDF](https://github.com/ameer-sk1401/Portfolio/blob/main/resume.pdf)**
+
 
 ---
 
